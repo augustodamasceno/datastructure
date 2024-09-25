@@ -44,6 +44,23 @@
     jupyter notebook
     ```
 
+## Jupyter Notebook Customization
+
+To customize the layout of Jupyter Notebook and make the notebook container span 100% of the available width, you can use the following CSS rule:
+
+```css
+.container { width:100% !important; }
+```
+
+###  On Linux/macOS, it's usually located at:  
+```bash
+~/.jupyter/custom/ 
+```
+
+### On Windows, it can be found at:  
+```bash
+C:\Users\<Your-Username>\.jupyter\custom\
+```
 
 ## References
 
