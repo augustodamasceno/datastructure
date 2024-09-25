@@ -2,8 +2,9 @@
 > # Technology Center  
 > ### Department of Computer Engineering and Automation  
 > #### Course: **Algorithms and Data Structure II (DCA3702)**  
+> #### Author: **Augusto Matheus Pinheiro Damasceno**
 >
->This repository contains solutions to the tasks and exercises assigned in the Algorithms and Data Structure II (DCA3702) course.
+> This repository contains solutions to the tasks and exercises assigned in the Algorithms and Data Structure II (DCA3702) course.
 >
 > ### Contact
 > [augustodamasceno@protonmail.com](mailto:augustodamasceno@protonmail.com)
