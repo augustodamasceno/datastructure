@@ -1,3 +1,6 @@
+.idea/
+
+
 # Project Specific
 venv/
 .DS_Store
