@@ -4,3 +4,5 @@ jupyter
 plotly
 matplotlib
 networkx
+nxviz
+scipy
