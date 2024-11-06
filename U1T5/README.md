@@ -27,7 +27,7 @@ In the video, we will cover the centrality metrics used, the analysis of node de
 the multivariate analysis of centrality metrics, and the identification of the network's core structure. 
 This presentation will highlight key findings and insights derived from the study, providing a comprehensive overview 
 of our methodology and results. Watch the full explanation and walkthrough 
-of the process on YouTube: [YouTube Link].
+of the process on YouTube: https://youtu.be/lfwdSQjXquo.
 
 # Reproduction
 
